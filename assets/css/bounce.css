@@ -22,10 +22,11 @@ a:hover, a:active { color:#fff; text-decoration: underline; }
 }
 
 div.a {
-    width: 150px;
-    height: 150px;
-    background:url("../corey.jpg");
+    width: 300px;
+    height: 433px;
+    background:url("../corey.png");
     background-size:cover;
     position:fixed;
+    /* background-color: transparent; */
     z-index:-1;
 }
