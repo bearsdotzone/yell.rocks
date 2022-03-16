@@ -1,1 +1,0 @@
-![Picture of the Curiosity Rover](assets/corey.jpg)
