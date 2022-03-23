@@ -40,11 +40,11 @@ img {
 div.a {
   width: 300px;
   height: 433px;
-  background-size: cover;
+  /* background-size: cover; */
   /* background-image: url("../corey.png"); */
   position: fixed;
-  /* background-color: transparent; */
-  z-index: -1;
+  background-color: black;
+  /* z-index: -1; */
 }
 
 footer {
