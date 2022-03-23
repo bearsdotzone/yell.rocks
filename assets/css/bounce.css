@@ -43,7 +43,7 @@ div.a {
   /* background-size: cover; */
   /* background-image: url("../corey.png"); */
   position: fixed;
-  background-color: black;
+  background-color: transparent;
   /* z-index: -1; */
 }
 
